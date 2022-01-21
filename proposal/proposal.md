@@ -15,8 +15,13 @@ Presented by: *Kai Matkin - CS, Erik Sanders - CS, Blake Krupa - DS, & Allison D
 
 ### Safegraph Data:
 **Findings:**
+
 (*NEEDS TO BE UPDATED*)
+
+
 ![](unnamed.png)
+
+
 ![](unnamed1.png)
 
 ### Other Data:
