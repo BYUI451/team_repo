@@ -26,11 +26,11 @@ Presented by: *Kai Matkin - CS, Erik Sanders - CS, Blake Krupa - DS, & Allison D
 
 ### Other Data:
 
-> From initial findings, we felt additional data from the census could be helpful. Just an understanding of the percent from a given state or census group could provide valuable insight into the success of the bank. 
+> From initial findings, we felt additional data from the census could be helpful. Just an understanding of the percent from a given state or census group could provide valuable insight into the success of the market. 
 It could also be interesting to pull COVID data and look for any trends that could help our model make predictions. 
 Weather conditions might be another indicator of foot traffic in store, and using conditions from specific areas might be helpful. 
 Exploring any trends between gas prices and foot traffic could be another area.
-General indicators from dataframes on how well the economy and stock market is doing has the potential to be the most helpful in predicting success of the banking business. 
+General indicators from dataframes on how well the economy and stock market is doing has the potential to be the most helpful in predicting success of the market. 
 
 
 ### Success: 
